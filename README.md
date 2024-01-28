@@ -10,6 +10,9 @@ The heart of this repository is a straightforward Flask app that showcases anima
 
 https://github.com/Nevermetyou65/docker101/assets/67499630/e9949c0a-2cc9-48a4-bf7e-6f603f6aa0b1
 
+## docker image
+you can download the docker image and run the app yourself from https://hub.docker.com/repository/docker/nevermetyou65/animegif/general
+
 ## Reference
 The idea for this repo came from https://docker-curriculum.com/#docker-run. This is really a good tutorial.
 
